@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookWorm</string>
+    <string name="fetching_book">Fetching Book from shelf...</string>
+    <string name="getting_book_toast">Getting the book...</string>
+    <string name="first_page_toast">You are on the first page.</string>
+    <string name="last_page_toast">No more pages to view.</string>
+    <string name="next_page_symbol"><![CDATA[>]]></string>
+    <string name="previous_page_symbol"><![CDATA[<]]></string>
+</resources>
